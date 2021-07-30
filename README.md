@@ -7,4 +7,4 @@ At each step in time (tick), the following transitions occur:
 3. Any live cell with two or three live neighbors lives, unchanged, to the next generation.
 4. Any dead cell with exactly three live neighbors comes to life.
 
-https://poonamamte.github.io/Java-project/ tap here for quick preview of my project
+https://github.com/poonamamte/Java-project.git tap here for quick preview of my project
